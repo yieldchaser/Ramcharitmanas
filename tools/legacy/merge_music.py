@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Merge D:\MP3 into D:\Music.
+r"""Merge D:\MP3 into D:\Music.
 Phase 1: copy every MP3-folder file into Music as "NNN - Title - Group.mp3" (278+).
 Phase 2: rename originals "NN.mp3" -> "NN - Title - Artist.mp3" when tags allow.
 Phase 3: write _TRACKLIST.txt (utf-8-sig) listing every number.

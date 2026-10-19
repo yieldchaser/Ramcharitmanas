@@ -1,0 +1,454 @@
+﻿PENDRIVE TRACK LIST  -  399 TRACKS  -  NUMBERS 001 TO 399
+==========================================================
+
+Every file is a real MP3, named with its number, and stored in the
+'Music' folder on the pen drive.  The number in this list is the
+number the player shows.
+
+TO PLAY A SONG BY NUMBER
+  1. Press MODE until USB (or SD) is selected.
+  2. Type the three-digit number on the remote, e.g. 0 2 5.
+  3. Press the play button (or wait for the player to jump).
+  If the player ignores the leading zero, type 25 instead of 025.
+
+GROUPS
+      001-277   Old Collection
+      278-291   Chaiti
+      292-306   Kajri
+      307-320   Jhumar
+      321-334   Hori
+      335-348   Phag
+      349-360   Rajan Ji Maharaj
+      361-373   Rambhadracharya
+      374-380   Ramnandacharya
+      381-389   Swami Raghvacharya
+      390-399   Madhushala
+
+NOTE: 156 old recordings had no song name inside the file.  They are
+listed as 'Untitled recording' with their exact length, so the person
+helping can recognise them by duration.  The number still works.
+
+
+NO. | LENGTH   | TRACK
+----+----------+--------------------------------------------------------
+
+--- Old Collection ---
+001 |    11:18 | Untitled recording
+002 |     6:41 | Om Jai Jagdish Hare  -  Mridul Krishna Shastri
+003 |     6:05 | Untitled recording
+004 |     4:40 | Untitled recording
+005 |    14:45 | Shri Vishnu Mantra  -  Vandana Bhardwaj
+006 |     6:25 | Untitled recording
+007 |     6:56 | Untitled recording
+008 |     8:05 | Untitled recording
+009 |     6:15 | Om Bhajo Hari Om Bhajo  -  Vipin Sachdeva
+010 |     7:05 | Untitled recording
+011 |     5:21 | Untitled recording
+012 |     9:45 | Untitled recording
+013 |     6:37 | Untitled recording
+014 |    10:34 | Untitled recording
+015 |     8:23 | Tero Janam Maran Mit Jaye  -  Mahesh Pandey
+016 |     4:59 | Jai Shiv Omkara  -  Anuradha Paudwal
+017 |     5:59 | Dil Shankar Shankar Bole  -  Suresh Wadkar
+018 |     5:44 | Untitled recording
+019 |     4:51 | Duniya Hai Shankar Ki  -  Anuradha Paudwal
+020 |     5:16 | Mahima Aparampar Hai  -  Suresh Wadkar
+021 |     4:42 | Milta Hai Sachcha Sukh Kewal Shiv Tumhare Charno Mein  -  Anuradha Paudwal
+022 |     5:06 | Shiv Bhola Bhandari  -  Vinod Rathod
+023 |    24:51 | Shiv Mangalam  -  Aashish Chandra Shashtri
+024 |     9:32 | Shivaji Teri Chavi Nirali  -  Hariharan
+025 |     5:46 | Subah Subah Hey Bhole  -  Suresh Wadkar,Anuradha Paudwal
+026 |     6:25 | Untitled recording
+027 |     6:26 | Untitled recording
+028 |    17:34 | Untitled recording
+029 |     9:27 | Untitled recording
+030 |     9:46 | Untitled recording
+031 |     6:14 | Untitled recording
+032 |     4:30 | Untitled recording
+033 |     5:38 | Untitled recording
+034 |     6:46 | Untitled recording
+035 |     4:52 | Aarti Kije Shri Raghuvar Ki
+036 |     9:16 | Prabhuji Tum Chandan Hum Paani (Ram Bhajan)
+037 |     5:14 | Thumak Chalat Ramchandra (Ram Baal Bhajan)
+038 |    16:54 | Untitled recording
+039 |     6:42 | Untitled recording
+040 |    14:23 | Untitled recording
+041 |     5:33 | Untitled recording
+042 |    47:25 | Untitled recording
+043 |     4:28 | Untitled recording
+044 |     4:54 | Kanha Kanha Aan Padi Main Tere Dwar (Shagird)  -  Lata Mangeshkar
+045 |    16:25 | Untitled recording
+046 |     4:42 | Jai Laxmi Mata  -  Sadhana Sargam
+047 |     5:19 | Untitled recording
+048 |     6:59 | Untitled recording
+049 |     6:22 | Untitled recording
+050 |     2:06 | Untitled recording
+051 |     3:52 | Mata Saraswati Sharda  -  Lata Mangeshkar,Dilraj Kaur
+052 |     5:04 | Om Jai Saraswati Mata  -  Maushmi Dutta
+053 |    10:35 | Jai Jai Maa Tu  -  Pradeep
+054 |     5:42 | Varde Varde Varde  -  Jagjit Singh
+055 |     6:56 | Untitled recording
+056 |     4:46 | Untitled recording
+057 |  1:05:34 | Untitled recording
+058 |  3:17:58 | Untitled recording
+059 |  3:13:36 | Untitled recording
+060 |  5:05:24 | Untitled recording
+061 |  4:47:06 | Untitled recording
+062 |  5:14:57 | Untitled recording
+063 |     3:35 | Tora Man Darpan Kahlaye (Kaajal)  -  Asha Bhosle
+064 |     5:06 | Untitled recording
+065 |     3:35 | Jot Se Jot Jagake Chalo (Sant Gyaneshwar)  -  Mukesh
+066 |     3:29 | Jyoti Kalash Chhalke (Bhabhi Ki Chudiyan)  -  Lata Mangeshkar
+067 |     3:53 | Badi Der Bhai Nandlala (Khandan)  -  Mohammed Rafi
+068 |     7:40 | Untitled recording
+069 |     4:16 | Untitled recording
+070 |  6:06:45 | Untitled recording
+071 |  7:30:32 | Untitled recording
+072 |    24:05 | Untitled recording
+073 |    50:30 | Untitled recording
+074 |    52:15 | Untitled recording
+075 |    54:50 | Untitled recording
+076 |    52:30 | Untitled recording
+077 |    52:50 | Untitled recording
+078 |    52:05 | Untitled recording
+079 |    49:10 | Untitled recording
+080 |    52:40 | Untitled recording
+081 |    53:55 | Untitled recording
+082 |    56:25 | Untitled recording
+083 |    53:50 | Untitled recording
+084 |    50:10 | Untitled recording
+085 |    39:00 | Untitled recording
+086 |    52:35 | Untitled recording
+087 |    29:50 | Untitled recording
+088 |    51:15 | Untitled recording
+089 |    48:50 | Untitled recording
+090 |    50:25 | Untitled recording
+091 |    49:40 | Untitled recording
+092 |    27:50 | Untitled recording
+093 |  2:25:16 | Vikram Betal Pachisi Ep 1 to 25 Legend of Vikramaditya - Vikram Betal Ki Kahaniy  -  Spiritual TV
+094 |    16:02 | Rashmirathi - Sarg 01 - Ramdhari Singh Dinkar - Manoj Muntahsir - Hindi Poetry  -  Manoj Muntashir Shukla
+095 |    25:23 | Rashmirathi - Sarg 02 - Ramdhari Singh Dinkar - Manoj Muntashir - Hindi Poetry  -  Manoj Muntashir Shukla
+096 |     9:20 | Rashmirathi - Sarg 03 - Part 01 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+097 |    19:06 | Rashmirathi - Sarg 03 - Part 02 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+098 |    16:23 | Rashmirathi - Sarg 04 - Part 01 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+099 |    19:23 | Rashmirathi - Sarg 04 - Part 02 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+100 |    22:04 | Rashmirathi - Sarg 05 - Part 01 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+101 |    16:42 | Rashmirathi - Sarg 05 - Part 02 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+102 |    11:42 | Rashmirathi - Sarg 06 - Part 01 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+103 |    27:37 | Rashmirathi - Sarg 06 - Part 02 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+104 |    22:53 | Rashmirathi - Sarg 07 - Final Episode - Ramdhari Singh Dinkar - Manoj Muntashir  -  Manoj Muntashir Shukla
+105 |    13:12 | Rashmirathi - Sarg 07 - Part 01 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+106 |    24:18 | Rashmirathi - Sarg 07 - Part 02 - Ramdhari Singh Dinkar - Manoj Muntashir - Hind  -  Manoj Muntashir Shukla
+107 |  1:11:50 | Ravindra Ramayan - Aranya Kand - Part 13 - Ravindra Jain  -  Ravindra Jain
+108 |    50:57 | Ravindra Ramayan - Ayodhya Kand - Part 11 - Ravindra Jain  -  Ravindra Jain
+109 |  1:11:27 | Ravindra Ramayan - Ayodhya Kand - Part 12 - Ravindra Jain  -  Ravindra Jain
+110 |  1:45:31 | Ravindra Ramayan - Bal Kand - Part 1 - Ravindra Jain  -  Ravindra Jain
+111 |  1:21:57 | Ravindra Ramayan - Bal Kand - Part 2 - Ravindra Jain  -  Ravindra Jain
+112 |  1:30:32 | Ravindra Ramayan - Bal Kand - Part 3 - Ravindra Jain  -  Ravindra Jain
+113 |  1:10:25 | Ravindra Ramayan - Bal Kand - Part 4 - Ravindra Jain  -  Ravindra Jain
+114 |    53:51 | Ravindra Ramayan - Bal Kand - Part 5 - Ravindra Jain  -  Ravindra Jain
+115 |  1:17:19 | Ravindra Ramayan - Bal Kand - Part 6 - Ravindra Jain  -  Ravindra Jain
+116 |  1:09:46 | Ravindra Ramayan - Bal Kand - Part 7 - Ravindra Jain  -  Ravindra Jain
+117 |  1:21:18 | Ravindra Ramayan - Bal Kand - Part 8 - Ravindra Jain  -  Ravindra Jain
+118 |    56:29 | Ravindra Ramayan - Bal Kand - Part 9 - Ravindra Jain  -  Ravindra Jain
+119 |  1:28:00 | Ravindra Ramayan - Bal Kand - Part 10 - Ravindra Jain  -  Ravindra Jain
+120 |    44:59 | Ravindra Ramayan - Kishkinda Kand - Part 14 - Ravindra Jain  -  Ravindra Jain
+121 |  1:34:12 | Ravindra Ramayan - Lanka Kand - Part 16 - Ravindra Jain  -  Ravindra Jain
+122 |  1:22:39 | Ravindra Ramayan - Lanka Kand - Part 17 - Ravindra Jain  -  Ravindra Jain
+123 |  2:01:50 | Ravindra Ramayan - Luv Kush Kand - Part 20 - Ravindra Jain  -  Ravindra Jain
+124 |  1:37:07 | Ravindra Ramayan - Luv Kush Kand - Part 21 - Ravindra Jain  -  Ravindra Jain
+125 |  1:28:42 | Ravindra Ramayan - Sunder Kand - Part 15 - Ravindra Jain  -  Ravindra Jain
+126 |  1:40:24 | Ravindra Ramayan - Uttar Kand - Part 18 - Ravindra Jain  -  Ravindra Jain
+127 |  1:35:23 | Ravindra Ramayan - Uttar Kand - Part 19 - Ravindra Jain  -  Ravindra Jain
+128 |    51:29 | श्रीमद भगवत गीता सार - अध्याय १ - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+129 |  1:24:45 | श्रीमद भगवत गीता सार - अध्याय 2 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+130 |    50:53 | श्रीमद भगवत गीता सार - अध्याय 3 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+131 |    51:09 | श्रीमद भगवत गीता सार - अध्याय 4 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+132 |    35:19 | श्रीमद भगवत गीता सार - अध्याय 5 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+133 |    55:30 | श्रीमद भगवत गीता सार - अध्याय 6 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+134 |    36:45 | श्रीमद भगवत गीता सार - अध्याय 7 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+135 |    34:36 | श्रीमद भगवत गीता सार - अध्याय 8 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+136 |    44:11 | श्रीमद भगवत गीता सार - अध्याय 9 - Shrimad Bhagawad Geeta With Narration - Chapte  -  Saregama Bhakti
+137 |    51:33 | श्रीमद भगवत गीता सार - अध्याय 10 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+138 |  1:07:33 | श्रीमद भगवत गीता सार - अध्याय 11 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+139 |    24:08 | श्रीमद भगवत गीता सार - अध्याय 12 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+140 |    45:07 | श्रीमद भगवत गीता सार - अध्याय 13 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+141 |    34:51 | श्रीमद भगवत गीता सार - अध्याय 14 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+142 |    28:24 | श्रीमद भगवत गीता सार - अध्याय 15 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+143 |    31:47 | श्रीमद भगवत गीता सार - अध्याय 16 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+144 |    37:46 | श्रीमद भगवत गीता सार - अध्याय 17 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+145 |  1:39:01 | श्रीमद भगवत गीता सार - अध्याय 18 - Shrimad Bhagawad Geeta With Narration - Chapt  -  Saregama Bhakti
+146 |  1:15:53 | सम्पूर्ण सुन्दरकाण्ड - मैथिली ठाकुर, ऋषभ ठाकुर, अयाची ठाकुर  -  Maithili Thakur
+147 |  2:31:25 | श्री राम कथा - Rajan Ji Maharaj । Ramcharitmanas Chaupai Explained । रामायण चौपा  -  Manas Capsule
+148 |  2:43:10 | संपूर्ण श्री दुर्गा सप्तशती Shree Durga Saptshati Complete, SANSKRIT, ANURADHA P  -  T - Series Bhakti Sagar
+149 | 16:51:31 | Untitled recording
+150 | 13:00:11 | Untitled recording
+151 |  8:09:31 | Untitled recording
+152 |    28:29 | Untitled recording
+153 |    28:38 | Untitled recording
+154 |    28:25 | Untitled recording
+155 |    28:49 | Untitled recording
+156 |    28:09 | Untitled recording
+157 |  1:01:45 | राम कैसे बने मर्यादा - पुरुषोत्तम - Dr Kumar Vishwas - Ram Katha  -  Apne Apne Ram
+158 |    17:50 | Untitled recording
+159 |    25:28 | Untitled recording
+160 |    16:24 | Untitled recording
+161 |  1:21:44 | सम्पूर्ण सत्यनारायण कथा - Shri Satyanarayan Katha ~ Bageshwar Dham Sarkar - Shar  -  ShriRadheRadhe
+162 |     9:15 | Untitled recording
+163 |    14:06 | Untitled recording
+164 |     5:06 | फिल्मी तर्ज पर शानदार स्वागत गीत तन मन से स्वागत Be Welcome song for 26January a  -  Warun Banjara
+165 |     3:36 | स्वागत गीत - प्रांगण में आपका स्वागत है - Sing with Tanu - welcome song - sriman  -  Sing with Tanu
+166 |     5:06 | स्वागतम स्वागतम स्वागतम आपका स्वागत गीत By DhirajKant 8010788843  -  DhirajKant Songs
+167 |     2:57 | स्वागत गीत - Welcome Song - @LMARYA  -  LM ARYA
+168 |     4:37 | स्वागत गीत - झूम झूम हर कली - Welcome Song - Jhoom Jhoom Har Kali - स्वरधाम से प  -  Manmohan Panda
+169 |     8:03 | Aye Apka Intizaar tha - Kumar Sanu hits - Wonderful Songs Collection by Kumar Sa  -  music centered station
+170 |     5:42 | मंगलमय दिन में दिन आजू हे juli jha swagat geet #vivha_geet - juli jha live video  -  Maithili Sansar
+171 |     6:59 | रउआ आ गईनी बड़ा दया कईनी l Raouaa Aa Gayini Bda Dya Kayini l स्वागत गीत l @mishra  -  Mishra Bandhu
+172 |     3:48 | Welcome Song - आयो रे मंगल अवसर  -  School Talent
+173 |     4:05 | स्वागत में आपके हम पलकें रहे बिछाए, गीत व स्वर - सुनील सरगम,रायबरेली,9695987070  -  Sunil Sargam Baiswara
+174 |     4:21 | swagat Geetफिल्मी तर्ज़ मेबहुत ही शानदार स्वागत गीत ❤️ Welcome Song  -  Ayaz Bollywood
+175 |     4:10 | Untitled recording
+176 |     5:06 | Swagat Geet By Shadaj gandh Vidyalay - Prof. Rashmi Ashish Kinhikar #song #singi  -  षड्ज गंध संगीत विद्यालय
+177 |     3:29 | स्वरचित स्वागत गीत - स्वागत श्री चरण में स्वीकार हो हमारा - लोकगीत - Sing with T  -  Sing with Tanu
+178 |     5:00 | स्वागत गीत ( परम पिता के प्रिय जनों का स्वागत बारंबार है)  -  सरस्वती शिशु मन्दिर गोरियाखेड़ा
+179 |     4:40 | Welcome song - स्वागत गीत - स्वागत गान - स्वागतम् हम आपका अभिनंदन - #ppsrmusic#l  -  PPSR MUSIC
+180 |     5:14 | स्वागतगीत Welcome song स्वीकारो वन्दन अभिनंदन श्रीमान Sangitacharya brajesh Kuma  -  Sangeetachary Brijesh Kumar
+181 |     4:20 | WELCOME SONG SWAGAT GEET स्वागत गीत हिंदी में for schools Dr. Vijeta Chaudhary  -  Music Online
+182 |    10:21 | अभिनंदन अभिनंदन - राजकुमार भट्ट - Welcome Song - Abhinandan Abhinandan - स्वागत  -  Gazals & Bhajan Show
+183 |     5:36 | वर - कन्या आशीर्वाद गीत।। - अद्भुत आशीर्वाद गीत अपने घर के शादियों में गाएँvimla  -  Didi Lokgeet
+184 |     3:53 | Vivah Ashirwad Geet - विवाह आशीर्वाद गीत - Sudha ke Bhakti Geet - Jadamba ki Lam  -  Sudha Ke Bhakti Geet । सुधा के भक्ति गीत
+185 |     4:50 | गणाधिपो भानु शशी धरा सुतो - वर वधू आशीर्वाद मंत्र - विवाह में आशीर्वाद, सुमंगली  -  Swasti Sadhana
+186 |     5:57 | #video - मंदाकिनी मिश्रा - विवाह सुमंगली - आशीर्वाद अभिषेक #Mandakini_ Mishra #s  -  SUDARSHAN VYAS OFFICIAL
+187 |     1:12 | #नवग्रह मांगलिक आशीर्वाद।। बहुत ही सुंदर।। Aacharya Shivendra Shukla  -  Aacharya Shivendra Shukla Official
+188 |     1:59 | आशीर्वाद श्लोक।।हिंदी पद।।वर वधू को आशीर्वाद दें।। विवाह में जरूर इसे गाए।।Aacha  -  Aacharya Shivendra Shukla Official
+189 |     1:03 | वर - वधू आशीर्वाद।।माङ्गलिक विवाह।।हिन्दी कवित्त - छन्द विवाह में बोले जाने वाले  -  Aacharya Shivendra Shukla Official
+190 |     3:06 | वैदिक अभिषेकः, गणाधिपो भानु शशी धरासुतो, Ashish.t  -  Ashish.t
+191 |     5:18 | ।।श्री शिवरामाष्टक स्तोत्रम्।। Krishna Tiwari  -  Tiwari
+192 |    54:56 | Untitled recording
+193 |  1:24:25 | Untitled recording
+194 |    43:40 | भरत चरित्र सुनाते रो पड़े पूज्य राजन जी कथा में बैठे माताएं भी रोने लगी Pujya Ra  -  Pujya Rajan Ji Official
+195 |     9:58 | Untitled recording
+196 |     3:47 | Untitled recording
+197 |  1:00:12 | Untitled recording
+198 |  3:31:20 | Untitled recording
+199 |    29:29 | Untitled recording
+200 |    29:57 | Untitled recording
+201 |    12:54 | Untitled recording
+202 |    14:18 | Untitled recording
+203 |    15:00 | Untitled recording
+204 |    35:17 | Untitled recording
+205 |     8:33 | Purv Megh part. 01 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaudi  -  BuCAudio
+206 |    16:35 | Purv Megh part. 02 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaudi  -  BuCAudio
+207 |    15:17 | Purv Megh part. 03 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaudi  -  BuCAudio
+208 |    21:44 | Purv Megh part. 04 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaudi  -  BuCAudio
+209 |    14:20 | Uttar Megh part. 01 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaud  -  BuCAudio
+210 |    12:01 | Uttar Megh part. 02 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaud  -  BuCAudio
+211 |    16:33 | Uttar Megh part. 03 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaud  -  BuCAudio
+212 |     7:20 | Uttar Megh part. 04 - Meghdoot - Mahakavi Kalidas @bucaudio.audiobooks - #bucaud  -  BuCAudio
+213 |    38:37 | Untitled recording
+214 |    46:16 | Untitled recording
+215 |    40:25 | Untitled recording
+216 |    36:45 | Untitled recording
+217 |    43:42 | Untitled recording
+218 |    35:26 | Untitled recording
+219 |    26:47 | Untitled recording
+220 |    37:08 | Untitled recording
+221 |    35:43 | Untitled recording
+222 |     8:48 | Hartalika Teej Vrat Katha~ हरतालिका तीज व्रत कथा~ हरियाली तीज की कहानी~ Hariyali  -  Bhakti Gyan
+223 |  1:21:22 | Untitled recording
+224 |  1:08:59 | Untitled recording
+225 |  1:19:28 | Untitled recording
+226 |  1:07:22 | Untitled recording
+227 |  1:01:20 | Untitled recording
+228 |  1:07:09 | Untitled recording
+229 |  1:07:45 | Untitled recording
+230 |  1:02:38 | Untitled recording
+231 |  1:08:04 | Untitled recording
+232 |  1:13:46 | Untitled recording
+233 |  1:06:46 | Untitled recording
+234 |  1:07:24 | Untitled recording
+235 |  1:07:42 | Untitled recording
+236 |  1:10:56 | Untitled recording
+237 |  1:06:28 | Untitled recording
+238 |  1:06:21 | Untitled recording
+239 |    57:06 | Untitled recording
+240 |  1:02:17 | Untitled recording
+241 |  1:06:49 | Untitled recording
+242 |  1:08:45 | Untitled recording
+243 |    53:30 | Untitled recording
+244 |    57:23 | Untitled recording
+245 |  1:01:43 | Untitled recording
+246 |  1:05:15 | Untitled recording
+247 |  1:14:20 | Untitled recording
+248 |  1:08:23 | Untitled recording
+249 |    42:33 | Untitled recording
+250 |    59:40 | Untitled recording
+251 |    49:27 | Untitled recording
+252 |    59:00 | Untitled recording
+253 |    58:40 | Untitled recording
+254 |    58:36 | Untitled recording
+255 |  1:04:45 | Untitled recording
+256 |    46:15 | Untitled recording
+257 |  1:03:13 | Untitled recording
+258 |  1:05:05 | Untitled recording
+259 |    54:35 | Untitled recording
+260 |    57:35 | Untitled recording
+261 |  1:01:26 | Untitled recording
+262 |  1:05:56 | Untitled recording
+263 |  1:03:50 | Untitled recording
+264 |  1:02:05 | Untitled recording
+265 |    56:20 | Untitled recording
+266 |  1:04:07 | Untitled recording
+267 |     6:19 | Untitled recording
+268 |     4:52 | Untitled recording
+269 |     8:17 | Untitled recording
+270 |    18:09 | Untitled recording
+271 |    20:50 | Untitled recording
+272 |    29:03 | Untitled recording
+273 |    16:20 | Untitled recording
+274 |    16:34 | Untitled recording
+275 |    19:27 | Untitled recording
+276 |    59:05 | Untitled recording
+277 |  2:08:01 | Untitled recording
+
+--- Chaiti ---
+278 |     4:32 | #HD VIDEO - #PRAMOD PREMI - #Chait Ke Tamprechar - चईत के टम्परेचर #Bhojpuri Vid  -  Pramod Premi Entertainment
+279 |     7:33 | #Video - चईत में पति अति कइले बा - #Khesari Lal Yadav Viral Chaita Song - Chait  -  Wave Music
+280 |     4:10 | #VIDEO - #Pawan Singh - कटनी ना होई ए बलम - Katni Na Hoi Ae Balam - Superhit Bho  -  Wave Music
+281 |     4:55 | #Video - चईता चईती - #Parduman Pardeshi - Chaita Chaiti - New Chaita Song 2026  -  Swagat Music, Parduman Pardeshi Official
+282 |     4:29 | #VIDEO - छठ घाटे चली - #Khesari Lal Yadav , #Antra Singh Priyanka - Bhojpuri Chh  -  Aadishakti Films
+283 |    11:51 | #Video - #Khesari Lal Yadav - Raja Jaayeda Naa Ta - Hau Kaam Ka Li - Bhojpuri So  -  Angle Music
+284 |    17:08 | Bahin छिनरा देवर - Holi Me Ke Kholi - Khesari Lal Yadav - Bhojpuri Song @WaveMus  -  Wave Music
+285 |     4:08 | Chait Maas Bole Re Koyaliya - Chaiti - Malini Awasthi - Indian Folk - Saibaba St  -  Artist440, Malini Awasthi, Saibaba Studios
+286 |     5:19 | CHAITI - चैती - एही ठइयां मोतिया हेराईल हो रामा - EHI THAIYA MOTIYA HERAIL - Cha  -  Chandan Tiwari {Purabiyataan}
+287 |     5:47 | Dehiya Khoje AC #Arvind Akela Kallu - #Shilpi Raj #Mahi Shrivastava - Bhojpuri C  -  Worldwide Records Bhojpuri
+288 |     5:41 | Sajan Ho - Old Bhojpuri Chaita - Chaiti Geet - Pawan Singh  -  T - Series Hamaar Bhojpuri
+289 |     9:53 | खेलत अँगनवा हो रामा - Renu Raj Sah - Bhojpuri Chaiti Bhajan 2026 - New Viral Son  -  Jagdamba Films Live
+290 |     8:43 | घाम लागता ऐ राजा - #Khesari Lal Yadav - Chait Me Hamra Gham Lagta - #Bhojpuri Ch  -  Wave Music
+291 |     6:52 | सईया धरावेला थरेसर - #Video_Song - Samar Singh , Kavita Yadav - Dharavela Thresa  -  Jupiter Entertainment
+
+--- Kajri ---
+292 |     5:22 | #Ashish Yadav - चटा के ओठलाली - #Kajal Raghwani , #Khushi Kakkar - Chata Ke Othl  -  Bihari Films Maghi
+293 |     3:29 | #Chhalakata Hamro Jawaniya - #pawansingh ,#Kajal Raghwani, #priyanka singh @Worl  -  Worldwide Records Bhojpuri
+294 |     5:03 | #Kajri group dance (कजरी समूह नृत्य ) this is a folk dance of up and Bihar, #cho  -  D.D.C dolphin dance club
+295 |     3:34 | #Video - लईकीन के चक्कर में बिगड़ल बाड़S - #Ankush Raja - Ft. #Kajal Raghwani - Bh  -  Ankush Raja Official
+296 |     4:34 | #कजरी - पिया मेंहदी लियादा मोती झील से जाके साइकिल से - #kajari - sanjoli pandey  -  Sanjoli pandey
+297 |     7:06 | Bairen Koyliya - Kajri  -  Sharda Sinha
+298 |     5:04 | Chhalakata Hamro Jawaniya 2 - Full Video Songs - #Khesari Lal & #Kajal Raghwani  -  IVY Bhojpuri Gaana
+299 |     5:54 | KAJARI GEET - गांव की सदाबहार कजरी - रुनझुन खोला ना केवडिया - Runjhun Khola - Bh  -  VM Entertainment Infinite
+300 |     6:31 | Kajari - कजरी - रूनझून खोलs ना हो केवड़िया - Chandan Tiwari - चंदन तिवारी  -  Chandan Tiwari {Purabiyataan}
+301 |    11:53 | Kajri  -  Girija Devi
+302 |     4:11 | कजरी - हे संइया कहिया टिकट कटइबा आइ गवा सावन महिनवा ना #Kajari geet - Dhan kirti  -  MD Universalam Studios
+303 |     6:42 | कजरी - धीरे - धीरे पऊॅवां धरा हो मोरी धनिया गोड़े घुघुरवा बाजेना#अंजूउपाध्याय अम  -  Anju Upadhyay Amrit
+304 |     3:31 | नथुनिया पागल कईले बा - #Pawan Singh, Kajal Raghwani - Nathuniya Pagal Kaile Ba  -  Wave Music
+305 |     4:01 | बदरा चढ़ आइल असमनवा (भोजपुरी कजरी) - मैथिली ठाकुर  -  Maithili Thakur
+306 |     4:24 | सावन कजरी गीत - #video - बितल जाता लाखों के सावन - #Rani Thakur Kajari Geet - Bh  -  TARANG MUSIC
+
+--- Jhumar ---
+307 |     4:49 | #bhojpuri - Soch Soch Ke Man Jhumat Ba - Mind Relex song - Study karte time jaru  -  Bhojpuri lofi077
+308 |     4:27 | #Video महबूबा हमार - #Neelkamal Singh New Song - Mahbooba Hamar - #Divya Ralhan  -  Saregama Hum Bhojpuri
+309 |     3:24 | #Video - आधी रात में - #Pramod_Premi_Yadav - Aadhi Rat Me - New Bhojpuri Song  -  Sur Music
+310 |     3:07 | #Video - छोटकी ननदी रे - #Pawan Singh - Chhotaki Nanadi Re - Superhit #Bhojpuri  -  Wave Music
+311 |     3:18 | #video - नाच के नचनिया - 2026 Hit Song - Dhananjay Dhadkan Latest Bhojpuri Song  -  DD Records Bhojpuri, Dhananjay Dhadkan Entertainment
+312 |     2:19 | Balamua Dubra Gaile - Hema Pandey - देसी झूमर - Folk Cafe - Latest Bhojpuri Song  -  FOLK CAFE
+313 |     6:06 | Jhihiriya Ke Gachiya - Jhoomar  -  Sharda Sinha
+314 |     3:54 | Jhumka Jhulaniya song Khesari Lal Yadav, Smrity Sinha bhojpuri song  -  Abhishek kumar
+315 |     7:38 | Jhumka Jhulaniya - FULL SONG - #Khesari Lal Yadav, Smrity Sinha - #Bhojpuri SONG  -  GUN GOLD MUSIC
+316 |     3:03 | Pawan Singh - Mai Ke Acharwa (माई के आचरवा ) - Shivani Singh, Sargam Akash - New  -  Zee Music Bhojpuri
+317 |     3:17 | Power Star Pawan Singh - Ghaghari Official Bhojpuri Song 2025 Ft. Shweta Sharma  -  T - Series Hamaar Bhojpuri
+318 |     3:07 | Real raja rangdaar ll Bhojpuri song ll Tiger yadav  -  Tiger Yadav
+319 |    40:51 | SHARDA SINHA JHOOMAR SONGS - BHOJPURI AUDIO SONGS JUKEBOX  -  T - Series Hamaar Bhojpuri
+320 |     3:38 | देख के फोटाउवा मे - #Chandan_Yadav - Dekh Ke Photauwa Me - New Bhojpuri Song 202  -  Chandan Yadav Official, AJ Films
+
+--- Hori ---
+321 |     5:15 | #video - खेलब होरी - Ajeet Anand - पारंपरिक भोजपुरी होली गीत 2026 - #traditional  -  AJEET ANAND ENTERTAINMENT
+322 |     4:24 | #Video - #Khesari Lal Yadav - भतीजवा के मौसी जिंदाबाद - #Antra Singh - Bhojpuri  -  Aadishakti Films
+323 |  1:07:37 | Bhojpuri Holi Traditional Geet By Sharda Sinha Full Audio Songs Juke Box I Holi  -  T - Series Bhakti Sagar
+324 |     3:11 | Bhuvar bhuvar Bal are hori lava ke  -  israil ali 143
+325 |     3:48 | Coke Studio Bharat - Holi Re Rasiya - Maithili Thakur x Seedhe Maut x Ravi Kisha  -  Coke Studio India
+326 |     5:34 | Hori Khele Raghuveera - Holi Song - Full Video - Baghban - Amitabh Bachchan, Hem  -  T - Series
+327 |     5:23 | Hori Khele Raghuveera 8K Full Video - Baghban - Amitabh Bachchan, Hema Malini  -  T - Series
+328 |    13:40 | Jamuna Tat Shyam Khele Hori - Padma Bhushan Sharda Sinha - Jashn - e - Adab 2021  -  Jashn - e - Adab
+329 |     4:44 | Khelat Hori Dar Laagela [ Latest Holi Video Song ] Aaja Ae Raja Phagun Mein - Sm  -  T - Series Hamaar Bhojpuri
+330 |     6:31 | Khele Masane Me Holi Digambar l खेले मसाने में होरी दिगम्बर l @mishra - bandhu  -  Mishra Bandhu
+331 |     7:43 | Mithila Mei Holi - मिथिला में राम खेलथि होरी - New Maithili Holi Song 2024 - Kun  -  Maithili Ganga
+332 |     4:03 | छपरा में पकड़ाएंगे Chapra Main Pakdaenge - Khesari Lal Yadav - Holi Main Thik Hai  -  Zee Music Bhojpuri
+333 |     3:53 | बबुआन के जान हउ हो - #Pawan Singh, #Akshara Singh - Babuaan Ke Jaan - Superhit #  -  Wave Music
+334 |     6:22 | होरी खेले महादेव गगन में उड़े अबीरा - Happy Holi - Anu Dubey - Bhojpuri Bhakti Ho  -  Wave Music
+
+--- Phag ---
+335 |     8:10 | #Bhojpuri #Fagua #Holi - Chandan Tiwari Live - ननस्टॉप देसी देहाती होली फगुआ  -  Chandan Tiwari {Purabiyataan}
+336 |     8:35 | #Holi_Song_2022 - #Khesari Lal Yadav - Gawata Jobanwa Jogira - गावता जोबनवा जोगी  -  Crown Music Bhojpuri
+337 |     4:15 | #video - फगुआ गवाई तबला पs - #Arvind Akela Kallu - #Shilpi Raj - #Neha Raj - #Bh  -  Saregama Hum Bhojpuri
+338 |     5:10 | #Video​ - #Khesari​ Lal Yadav - दुई रूपया - #Antra Singh - Dui Rupaiyan - Bhojpu  -  Aadishakti Films
+339 |     7:44 | 2025 का होली सांग #जोगीरा सारा रा रा #Neelam_Sagar #Holi Special Jogira #Bhojpur  -  MUSIC WORLD BHOJPURI
+340 |     3:20 | Holi Song Dj Remix - Jogira Sa Ra Ra - Pawan Singh New Holi Song - #jogira_sa_ra  -  Dj Naresh Entertainment
+341 |    46:25 | JOGIRA SA RA RA RA 2017 Vol.1 - BHOJPURI HOLI AUDIO SONGS JUKEBOX - BHARAT SHARM  -  T - Series Hamaar Bhojpuri
+342 |     3:26 | Jogira जोगीरा - Fagua Me Fuchur Fuchur - Shubha Mishra - Bhojpuri Holi Song @Wav  -  Wave Music
+343 |     6:27 | JOGIRA महा मुक़ाबला - VIDHAN SABHA - Sunil Chhaila Bihari & Lovely Anand Jha - S  -  Chhaila Bihari Official
+344 |     3:15 | Khesari Lal Yadav - Chandani & Dimpal Singh - Markande Baba - भोजपुरी का सुपर हि  -  Lotus Music Bhojpuri
+345 |     1:13 | New Bhojpuri Hit Jogira Song - जोगीरा - Amit Singh Dhuran - Fagua Me Lagua Khoje  -  Team Films Bhojpuri
+346 |     4:16 | PAWAN SINGH Holi Video Song - JUTHAAR DIHALE RAJA JI - Lifafa Mein Abeer - T - S  -  T - Series Hamaar Bhojpuri
+347 |     6:23 | सखी बुढ़वा भतार - #Pawan Singh - Sakhi Budhawa Bhatar Roje Roje Sejiya Ke Nashe  -  Wave Music
+348 |     3:23 | हमसे कराद बियाह सरऊ - Pawan Singh - Satrangi Colour - Hamse Karad Biyah - Bhojpu  -  Wave Music
+
+--- Rajan Ji Maharaj ---
+349 |    34:19 | इस कथा को सुनकर आपका मन तृप्त हो जाएगा - Shri Ram Katha Pujya Rajan Ji Maharaj  -  Pujya Rajan Ji Official
+350 |    24:05 | इस प्रसंग को सुनने मात्र से आपके सारे पाप नष्ट हो जाएंगे - Pujya Rajan Ji Mahara  -  Pujya Rajan Ji Official
+351 |  1:28:44 | जबरदस्त केवट प्रसंग - रामायण का यह प्रसंग सुन लिया तो समझो आपका जीवन सफल है ! Pu  -  Pujya Rajan Jee
+352 |    39:32 | जिसने भी यह राम कथा सुनी है, वह धन्य हो गया by पूज्य राजन जी !! Shri Ram Katha !  -  Pujya Rajan Jee
+353 |    39:45 | जीवन में सुख - शांति चाहिए तो जरूर सुनें शिव - पार्वती की यह कथा - श्री राम कथा  -  Pujya Rajan Jee
+354 |    41:01 | भगवान भरोसे बैठना सही है या गलत जानिये इस वीडियो में। Pujya Rajna Jee  -  Pujya Rajan Jee
+355 |    39:34 | भरत चरित्र सुनाते रो पड़े पूज्य राजन जी कथा में बैठे माताएं बहने भी रोने लगी Puj  -  Pujya Rajan Jee
+356 |    36:47 | राम नाम की महिमा जब किस्मत साथ न दे, तो जरूर सुनें श्रीराम जी की ये दिव्य कथा। P  -  Pujya Rajan Jee
+357 |    42:29 | राम वनवास की कथा सुनाते महाराज जी हुए भावुक - Shri Ram Vanwas Katha Pujya Rajan  -  Pujya Rajan Ji Official
+358 |    17:19 | वाणी का चमत्कार - कब और कैसे बोलना चाहिए जानिए इस वीडियो में !! Pujya Rajan Jee  -  Pujya Rajan Jee
+359 |    54:54 | शिव सती की सम्पूर्ण कथा जो भी सुन ले उसका जीवन धन्य हो जाए ! Shiv Sati Katha Puj  -  Pujya Rajan Jee
+360 |  1:13:21 | सम्पूर्ण सुन्दरकाण्ड की कथा पूज्य राजन जी के श्रीमुख से Pujya Rajan Jee  -  Pujya Rajan Ji Official
+
+--- Rambhadracharya ---
+361 |  2:15:13 | Day 1 - Shri Ram Katha - Jagadguru Shri Rambhadracharya Ji Maharaj - Jabalpur {M  -  Jagadguru Rambhadracharaya ji
+362 |  2:13:18 | Day 1 - Shri Ram Katha - Jagadguru Shri Rambhadracharya Ji Maharaj - Chirtkoot D  -  Jagadguru Rambhadracharaya ji
+363 |  1:07:22 | Day 1 - Shri Ram Katha - Jagadguru ShriRambhadracharya Ji Maharaj - Aligarh {Utt  -  Jagadguru Rambhadracharaya ji
+364 |  2:14:21 | Day 2 - Shri Ram Katha - Jagadguru Shri Rambhadracharya Ji Maharaj - Mau Ranipur  -  Jagadguru Rambhadracharaya ji
+365 |    52:28 | Day - 1 episode 1 - shri ram katha - by Rambhadracharya ji khandasa up#Babaprodu  -  Baba Production
+366 |  1:51:50 | Jagadguru Rambhadracharya - Manas Dharma - 16 of 18 - Sundarkand  -  Jagadguru Rambhadracharaya ji
+367 |  2:43:50 | LIVE श्री राम कथा Ram Katha - PP. Rambhadracharya Ji Maharaj - 17 May - Chirimir  -  SanskarTV
+368 |  1:46:56 | Shri Ram Katha - श्री राम कथा - (Day 1) By - Jagadguru Rambhadracharya Ji Mahara  -  BhaktiSagar Tv
+369 |  1:48:07 | Shri Ram Katha - श्री राम कथा - (Day 2) By - Jagadguru Rambhadracharya Ji Mahara  -  BhaktiSagar Tv
+370 |    24:00 | अद्भुत प्रसंग - जब एक बार भरत जी ने भी मांगी भीख। - जगद्गुरु स्वामी श्री रामभद्र  -  Jagadguru Rambhadracharaya ji
+371 |    30:31 | जब लक्ष्मण और मेघनाद का युद्ध हुआ - बहुत सुन्दर प्रसंग - रामायण का प्रसंग जगद्गु  -  Jagadguru Rambhadracharaya ji
+372 |  1:03:29 | श्री राम कथा मानस के 84 प्रसंग Part - 25  -  New Light Studio
+373 |    57:09 | श्रीराम को चौदह वर्ष का ही वनवास क्यों जानिए गुरुदेव ने बताया चौदह वर्ष वनवास की  -  Jagadguru Rambhadracharaya ji
+
+--- Ramnandacharya ---
+374 |  3:10:05 | Day 6 - Shri Ram Katha - Jagadguru ShriRambhadracharya Ji Maharaj - Lucknow {Utt  -  Jagadguru Rambhadracharaya ji
+375 |    13:10 | hans devacharya ji maharaj - हंस देवाचार्य जी महाराज  -  Sunil Kumar Gandhi
+376 |    11:40 | hans devacharya ji maharaj - हंस देवाचार्य जी महाराज  -  Sunil Kumar Gandhi
+377 |    16:49 | hans devacharya ji maharaj - हंस देवाचार्य जी महाराज  -  Sunil Kumar Gandhi
+378 |    28:12 | Jagatguru ramnandacharya pithadheshwar hans devacharya ji maharaj  -  Khatu Shyam
+379 |    12:12 | Know Your INDIA 8th January स्वामी रामानंदाचार्य जयंती (Part - 1) Biography ,Lif  -  political arena INDIA
+380 |    16:45 | श्री राम स्तुति - Shri Ram Stuti Swami Ramkamlacharya Ji Maharaj Day 01 Shri Ram  -  मातृ भक्ति - परम श्रद्धेय श्री जल वाले गुरुजी
+
+--- Swami Raghvacharya ---
+381 |  3:40:00 | Day - 01 Shri Ram Katha श्री राम कथा Jagadguru Raghvacharya JI Maharaj at Janki  -  Swami Raghvacharya
+382 |  3:27:15 | Day - 1.Live Shrimad Valmiki Ramayan by Raghvacharya ji at संदीपिनी गुरूकुल पोरब  -  Swami Raghvacharya
+383 |  1:30:01 | Live Day1 - Shri Ram Katha - Swami Raghvacharya Ji Maharaj - Brahmapur, Odisha  -  Jagadguru Raghavacharyji Ayodhya
+384 |    33:41 | Live 13अक्टूबर 2026 - श्री राम कथा - स्वामी राघवाचार्य जी महाराज - Ram Katha Liv  -  Seva aur satsang, Sagar melody'
+385 |  1:27:14 | कितने भी दुखी हो यह कथा सारी दुःख पीड़ा नष्ट कर देगी - Jagadguru Raghvacharya Ji  -  Swami Raghvacharya
+386 |  1:16:28 | राम कथा का विशेष प्रसंग आज अवश्य सुनें - Katha Vyas Swami Raghavacharya J  -  yutew
+387 |  2:49:59 | हमारे जीवन में संतोष आखिर क्यों नहीं रहता - Katha Vyas Swami Raghavacharya Ji  -  yutew
+388 |    44:20 | LIVE KATHA - 12अक्टूबर 2026 - Swami Raghavacharya Ji Maharaj - श्री मद भागवत कथा  -  Sagar melody'
+389 |  3:23:35 | LIVE ! DAY 01 ! श्रीमद्भागवत कथा ,बैंगलोर ! स्वामी श्री राघवाचार्य जी महाराज  -  Swami Raghvacharya
+
+--- Madhushala ---
+390 |    14:35 | Maadhushala by Harivansh Rai Bachchan - Ep 01 - Manoj Muntashir - Hindi Poetry  -  Manoj Muntashir Shukla
+391 |    31:11 | Madhushala By Harivansh Rai Bachchan - Madiralay Jane Ko - Manna Dey - Best Ghaz  -  Saregama Ghazal
+392 |    45:05 | Madhushala [complete] by Sri Harivansh Rai 'Bachhan'  -  Fauji Father
+393 |    39:59 | Madhushala - The Complete Hindi Poem of Harivansh Rai Bachchan Ji - Reading by A  -  Anwar Jamal Faiz
+394 |  1:08:59 | मधुशाला ( सम्पूर्ण ) - MADHUSHALA - Harivansh Rai Bachchan - VOICE - KUMAR RAJES  -  Kumar Rajesh
+395 |    13:28 | Madhushala Part 1 - हिंदी ऑडियोबुक - Harivansh Rai Bachchan - Complete Poetry Co  -  Aashish Joshi
+396 |     9:07 | मधुशाला (भाग - 1) - हरिवंश राय बच्चन - Madhushala (Part - 1) - Harivansh Rai Bac  -  Sahitya Manch
+397 |    44:25 | Poem - Madhushala, written by dr Harivansh rai bachchan  -  Sidelines
+398 |    36:07 | madhushala poem by Harivansh Rai Bachhan मधुशाला - हरिवंशराय बच्चन  -  Nishvasita
+399 |     7:54 | Madhushala (Harivansh Rai Bachchan Poems Recited By Amitabh Bachchan.)(HD)  -  ashutosh vashist

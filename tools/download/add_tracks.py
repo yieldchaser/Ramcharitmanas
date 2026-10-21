@@ -43,6 +43,17 @@ TRACKS = [
      "तनी सुन ला... साले तब जइहा - विवाह गारी गीत"),
     ("5I3sFVTplJs", "Vivah Gari Geet",
      "बराती गाली गीत - विवाह गारी गीत"),
+    # ---- Mithila (Maithili) Ram-Sita vivah gari geet ----
+    ("pro5DTrX9vs", "Mithila Gari Geet",
+     "छयलवा को दइहौं चुन चुन गारी - मिथिला गारी गीत"),
+    ("etilxcWujzA", "Mithila Gari Geet",
+     "मिथिला की अद्भुत गारी - मिथिला गारी गीत"),
+    ("-UPq7a61koQ", "Mithila Gari Geet",
+     "राम जी से पूछे जनकपुर की नारी - मिथिला गारी गीत"),
+    ("d6MWk5M5NQY", "Mithila Gari Geet",
+     "जनकपुर की अद्भुत गारी - मिथिला गारी गीत"),
+    ("W_wy1B54yVg", "Mithila Gari Geet",
+     "मिथिला की नारि भगवान राम को गारी कहती हैं - मिथिला गारी गीत"),
 ]
 
 JUNK = re.compile(r"^(untitled|track\s*\d+|audio|mp3|song|unknown|na|n/?a)$", re.I)

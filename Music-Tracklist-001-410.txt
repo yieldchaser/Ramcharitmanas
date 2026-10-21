@@ -1,4 +1,4 @@
-﻿PENDRIVE TRACK LIST  -  405 TRACKS  -  NUMBERS 001 TO 405
+﻿PENDRIVE TRACK LIST  -  410 TRACKS  -  NUMBERS 001 TO 410
 =========================================================
 
 Every file is a real MP3, named with its number, and stored in the
@@ -24,6 +24,7 @@ GROUPS
       381-389   Swami Raghvacharya
       390-399   Madhushala
       400-405   Vivah Gari Geet
+      406-410   Mithila Gari Geet
 
 NOTE: 156 old recordings had no song name inside the file.  They are
 listed as 'Untitled recording' with their exact length, so the person
@@ -461,3 +462,10 @@ NO. | LENGTH   | TRACK
 403 |     4:48 | समधी के दीदी बड़की खेलाड़ - विवाह गारी गीत  -  Pushpa Music
 404 |     2:56 | तनी सुन ला... साले तब जइहा - विवाह गारी गीत  -  Anurag Entertainment
 405 |     5:02 | बराती गाली गीत - विवाह गारी गीत  -  Amit Ashik Entertainment
+
+--- Mithila Gari Geet ---
+406 |     6:00 | छयलवा को दइहौं चुन चुन गारी - मिथिला गारी गीत  -  Maithili Thakur
+407 |    25:40 | मिथिला की अद्भुत गारी - मिथिला गारी गीत  -  Pujya Rajan Jee
+408 |     6:26 | राम जी से पूछे जनकपुर की नारी - मिथिला गारी गीत  -  Maithili Thakur
+409 |     8:33 | जनकपुर की अद्भुत गारी - मिथिला गारी गीत  -  Pujya Rajan Jee
+410 |     7:09 | मिथिला की नारि भगवान राम को गारी कहती हैं - मिथिला गारी गीत  -  Maithili Lok Geet

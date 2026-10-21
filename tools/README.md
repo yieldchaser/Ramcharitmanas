@@ -17,7 +17,7 @@ The pipeline that rebuilt the C-28 pendrive. Run in this order:
 | 5 | [`make_tracklist.py`](pendrive/make_tracklist.py) | Writes `Music-Tracklist-001-<max>.txt` + `.html` **into the repo only** (never onto the drive) |
 | 6 | [`check_final.py`](pendrive/check_final.py) | Cross-checks the generated list against `plan.json`: row count, durations, titles |
 | 7 | [`audit_drive.py`](pendrive/audit_drive.py) | On-device audit: real MPEG frames, tags, ID3v1, no cover art, FAT order, no strays |
-| — | [`make_pdf.py`](pendrive/make_pdf.py) | Prints the list: renders the `.txt` as a print-only A4 page, has Chrome write the PDF (the only renderer here that shapes Devanagari), then stamps `page N of M` with PyMuPDF. Writes `Music-Tracklist-001-<max>.pdf` |
+| — | [`make_pdf.py`](pendrive/make_pdf.py) | Prints the list: renders the `.txt` as a print-only A4 page, has Chrome write the PDF (the only renderer here that shapes Devanagari), then stamps `page N of M` with PyMuPDF. Writes `Music-Tracklist-001-<max>.pdf` and `…-hi.pdf` (`--lang hi` for Hindi only). Song titles keep their original script; only the headings, instructions and group names are translated |
 | — | [`extend_tracklist.py`](pendrive/extend_tracklist.py) | **Appending only.** Rebuilds both list formats from the drive itself (no `plan.json`), keeps the existing rows byte-for-byte and adds the new numbers under a new group. `python tools/pendrive/extend_tracklist.py "Vivah Gari Geet"` |
 
 `plan.json`, `probe_tags.json` and the logs are intermediates in

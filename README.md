@@ -62,7 +62,9 @@ module, 7-segment display, `CH+/CH-` and `0-9` keys on the IR remote).
 **Track list:** [Music-Tracklist-001-410.txt](Music-Tracklist-001-410.txt) ·
 [Music-Tracklist-001-410.html](Music-Tracklist-001-410.html) (searchable — open it in a
 browser) · [Music-Tracklist-001-410.pdf](Music-Tracklist-001-410.pdf) (A4, 14 pages,
-ready to print as-is).
+ready to print as-is) ·
+[Music-Tracklist-001-410-hi.pdf](Music-Tracklist-001-410-hi.pdf) (Hindi edition — headings,
+instructions and group names in Hindi; song titles stay in the script they were saved in).
 
 ### Drive layout — one folder, nothing else
 

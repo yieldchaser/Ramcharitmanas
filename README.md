@@ -13,7 +13,7 @@ tools/            scripts, grouped by job
 └── legacy/       superseded scripts, kept for reference
 archive/          old tracklists that must not be used (see archive/README.md)
 mp3/              media files — gitignored, too large for GitHub
-Music-Tracklist-001-410.txt / .html    the current pendrive number list
+Music-Tracklist-001-410.txt / .html / .pdf    the current pendrive number list
 ```
 
 ## Media layout (current, in the gitignored `mp3/`)
@@ -60,8 +60,9 @@ A separate collection for the **C-28 Music Speaker** (generic USB/SD MP3 decoder
 module, 7-segment display, `CH+/CH-` and `0-9` keys on the IR remote).
 
 **Track list:** [Music-Tracklist-001-410.txt](Music-Tracklist-001-410.txt) ·
-[Music-Tracklist-001-410.html](Music-Tracklist-001-410.html) (searchable, printable —
-open it in a browser and press Ctrl+P).
+[Music-Tracklist-001-410.html](Music-Tracklist-001-410.html) (searchable — open it in a
+browser) · [Music-Tracklist-001-410.pdf](Music-Tracklist-001-410.pdf) (A4, 14 pages,
+ready to print as-is).
 
 ### Drive layout — one folder, nothing else
 

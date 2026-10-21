@@ -4,13 +4,13 @@ Kept so nothing is silently lost. Nothing in here should be used for the live pe
 
 ## [pre-rebuild-tracklist/](pre-rebuild-tracklist/)
 
-`Music-Tracklist-1-399.txt`, `.docx`, `.xlsx` — the lists generated **before** the
+Music-Tracklist-1-399.txt, .docx, .xlsx — the lists generated **before** the
 pendrive rebuild (Oct 14). Their numbering describes the old library, where 48 files were
 not real MP3s and 99 filenames were not zero-padded, so the numbers did not match what
 the C-28 player actually played.
 
 **Do not print these or give them to the listener.** The current, verified list is
-[`Music-Tracklist-001-399.txt`](../Music-Tracklist-001-399.txt) (and `.html`) in the
+[`Music-Tracklist-001-402.txt`](../Music-Tracklist-001-402.txt) (and `.html`) in the
 repo root.
 
-Root cause and the rules the rebuilt library follows: [README.md](../README.md#pendrive-library--numbers-001-to-399-dmusic).
+Root cause and the rules the rebuilt library follows: [README.md](../README.md#pendrive-library--numbers-001-to-402-dmusic).

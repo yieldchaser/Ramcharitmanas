@@ -4,22 +4,25 @@ Every script here uses **absolute Windows paths** (`C:\Users\Dell\...`, `D:\Musi
 top of the file and expects the WinGet ffmpeg build. If you move the project or run it on
 another machine, edit those constants first.
 
-## [pendrive/](pendrive/) — the 001–399 library kit
+## [pendrive/](pendrive/) — the numbering kit (now 001–402)
 
 The pipeline that rebuilt the C-28 pendrive. Run in this order:
 
 | # | Script | What it does |
 |---|---|---|
-| 1 | [`plan_rebuild.py`](pendrive/plan_rebuild.py) | Reads `probe_tags.json`, decides the final `001–399` numbering, titles and the codec each file needs → `plan.json` |
+| 1 | [`plan_rebuild.py`](pendrive/plan_rebuild.py) | Reads `probe_tags.json`, decides the numbering 001 upward, titles and the codec each file needs → `plan.json` |
 | 2 | [`rebuild_music.py`](pendrive/rebuild_music.py) | Writes every track as a **real MP3** (stream-copy if already MP3, LAME 192 kbps if AAC/Opus), 3-digit name, ID3v2.3 + ID3v1, no cover art, `D:\Music_new` |
 | 3 | [`verify_new.py`](pendrive/verify_new.py) | Checks count, numbering, duration, tags, ID3v1 trailer and that FAT order = numeric order |
 | 4 | [`swap.py`](pendrive/swap.py) | Deletes the duplicate `D:\MP3`, swaps `Music_new` in as `Music`, re-asserts order, removes the old library |
-| 5 | [`make_tracklist.py`](pendrive/make_tracklist.py) | Writes `Music-Tracklist-001-399.txt` + `.html` **into the repo only** (never onto the drive) |
-| 6 | [`check_final.py`](pendrive/check_final.py) | Cross-checks the generated list against `plan.json`: 399 rows, durations, titles |
+| 5 | [`make_tracklist.py`](pendrive/make_tracklist.py) | Writes `Music-Tracklist-001-<max>.txt` + `.html` **into the repo only** (never onto the drive) |
+| 6 | [`check_final.py`](pendrive/check_final.py) | Cross-checks the generated list against `plan.json`: row count, durations, titles |
 | 7 | [`audit_drive.py`](pendrive/audit_drive.py) | On-device audit: real MPEG frames, tags, ID3v1, no cover art, FAT order, no strays |
+| — | [`extend_tracklist.py`](pendrive/extend_tracklist.py) | **Appending only.** Rebuilds both list formats from the drive itself (no `plan.json`), keeps the existing rows byte-for-byte and adds the new numbers under a new group. `python tools/pendrive/extend_tracklist.py "Vivah Gari Geet"` |
 
 `plan.json`, `probe_tags.json` and the logs are intermediates in
-`C:\Users\Dell\AppData\Local\Temp\ytdl\` — not committed, regenerable.
+`C:\Users\Dell\AppData\Local\Temp\ytdl\` — not committed, regenerable. Windows
+clears Temp on its own, so `plan.json` can be gone; that is why
+`extend_tracklist.py` never needs it.
 
 ## [download/](download/) — YouTube → MP3
 
@@ -30,6 +33,7 @@ The pipeline that rebuilt the C-28 pendrive. Run in this order:
 | [`retry_loop.py`](download/retry_loop.py) | Long-sleep single-threaded retry (Firefox cookies) for files YouTube refused. |
 | [`madhushala.py`](download/madhushala.py) | Example: explicit video-ID list → one folder, with `--download-archive`. |
 | [`mahabharat_watchdog.py`](download/mahabharat_watchdog.py) | Watches the Mahabharat download queue and retries failures (writes `watchdog.log`). |
+| [`add_tracks.py`](download/add_tracks.py) | Appends explicit video IDs to the drive as the next numbers: 192 kbps CBR / 48 kHz / stereo re-encode, ID3v2.3 + ID3v1, no artwork, `NNN - Title.mp3`. `--dry-run` shows the numbers first. |
 
 ## [legacy/](legacy/) — superseded, kept for reference
 

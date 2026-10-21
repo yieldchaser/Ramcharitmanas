@@ -8,12 +8,12 @@ Offline media collection organised folder-wise, ready to copy onto a pendrive.
 
 ```
 tools/            scripts, grouped by job
-├── pendrive/     the 001–399 rebuild + verification kit  (see tools/README.md)
+├── pendrive/     the numbering rebuild + verification kit  (see tools/README.md)
 ├── download/     YouTube → MP3 pipeline
 └── legacy/       superseded scripts, kept for reference
 archive/          old tracklists that must not be used (see archive/README.md)
 mp3/              media files — gitignored, too large for GitHub
-Music-Tracklist-001-399.txt / .html    the current pendrive number list
+Music-Tracklist-001-402.txt / .html    the current pendrive number list
 ```
 
 ## Media layout (current, in the gitignored `mp3/`)
@@ -54,28 +54,28 @@ The original katha collection (2.4 GB) was removed to free disk space. Sources:
 | 04_Rajan_Ji_Ramcharitmanas_Vyakhya | Shri Ramcharitmanas ki Sundar Vyakhya (Pujya Rajan Ji) | https://www.youtube.com/watch?v=7RUK-P9pRd0 |
 | 05_GovindDevGiri_Mahabharat_Katha_Pandharpur | Shri Mahabharat Katha — Pandharpur, Days 1–7 (Swami Govind Dev Giri ji) | https://www.youtube.com/watch?v=6HpIAOHPxm4 (Day 1) — full series via watch_videos: `6HpIAOHPxm4,ex_52kbePEI,_zgNaywsvuk,UpUicoXBky0,o2WwKyul3_M,GpAXRTgDHCg,M4_KJTIUxyw` |
 
-## Pendrive library — numbers 001 to 399 (`D:\Music`)
+## Pendrive library — numbers 001 to 402 (`D:\Music`)
 
 A separate collection for the **C-28 Music Speaker** (generic USB/SD MP3 decoder
 module, 7-segment display, `CH+/CH-` and `0-9` keys on the IR remote).
 
-**Track list:** [Music-Tracklist-001-399.txt](Music-Tracklist-001-399.txt) ·
-[Music-Tracklist-001-399.html](Music-Tracklist-001-399.html) (searchable, printable —
+**Track list:** [Music-Tracklist-001-402.txt](Music-Tracklist-001-402.txt) ·
+[Music-Tracklist-001-402.html](Music-Tracklist-001-402.html) (searchable, printable —
 open it in a browser and press Ctrl+P).
 
 ### Drive layout — one folder, nothing else
 
 ```
 D:\
-└── Music\        399 files, 001 - Title.mp3 … 399 - Title.mp3   (21.1 GB)
+└── Music\        402 files, 001 - Title.mp3 … 402 - Title.mp3   (21.15 GB)
 ```
 
 No sub-folders, no playlist files, no copies of this list on the drive. The
 decoder scans `Music` and indexes the files in FAT order, which the rebuild
-forced to equal 001→399. Keep it that way: a new folder would need `CH+`
+forced to equal 001→402. Keep it that way: a new folder would need `CH+`
 navigation the listener cannot do, and any file dropped at the root competes
 with `Music` for the decoder's scan. Print or open the list from this repo
-instead — [`Music-Tracklist-001-399.html`](Music-Tracklist-001-399.html) is
+instead — [`Music-Tracklist-001-402.html`](Music-Tracklist-001-402.html) is
 searchable and prints cleanly.
 
 ### Why the old pendrive played the wrong song
@@ -101,9 +101,9 @@ was simply the drift being invisible near the start of the list.
 
 ### Rules the rebuilt library follows
 
-- Every file is a **real MP3** (LAME 192 kbps, 44.1 kHz, stereo). Nothing is a
+- Every file is a **real MP3** (LAME 192 kbps CBR, 48 kHz, stereo). Nothing is a
   renamed AAC/Opus/WebM container.
-- Names are **zero-padded to three digits**: `001 - Title.mp3` … `399 - Title.mp3`,
+- Names are **zero-padded to three digits**: `001 - Title.mp3` … `402 - Title.mp3`,
   in one flat `Music` folder.
 - Files are written **in numeric order**, so FAT order, name order and ID3 order
   all agree — whichever way the decoder counts, 025 is 025.
@@ -113,13 +113,31 @@ was simply the drift being invisible near the start of the list.
   and are identified in the list by their exact length.
 - Numbers 001–277 are the old collection; 278–399 are Chaiti, Kajri, Jhumar,
   Hori, Phag, Rajan Ji, Rambhadracharya, Ramnandacharya, Swami Raghvacharya and
-  Madhushala.
+  Madhushala; 400–402 are Bihar **Vivah Gari Geet** (traditional wedding teasing
+  songs, added 21 Oct 2026).
 
 If any song is ever added: keep the `NNN - Title.mp3` name, add it in numeric
 order, keep the ID3 track equal to the number, and never drop in a renamed
 non-MP3 file. The rebuild and verification scripts are in
 [`tools/pendrive/`](tools/pendrive/) — run them in the order listed in
 [`tools/README.md`](tools/README.md).
+
+For a plain append (new songs onto an already-correct drive), two scripts are
+enough: [`tools/download/add_tracks.py`](tools/download/add_tracks.py) fetches the
+next numbers with the same tag set, and
+[`tools/pendrive/extend_tracklist.py`](tools/pendrive/extend_tracklist.py) appends
+them to both list formats. That is exactly how 400–402 were added.
+
+### Added 21 Oct 2026 — 400–402, Bihar Vivah Gari Geet
+
+| No. | Title (Hindi) | Source |
+|---|---|---|
+| 400 | दुलहा के बहिन यार राखेली थानेदार राखेली | https://www.youtube.com/watch?v=-a8YCshjQXs |
+| 401 | समधी के बहिनिया पटाके हलवाई | https://www.youtube.com/watch?v=BK2BmylPQcs |
+| 402 | कईसन बाराती अइले मांग मांग खाले | https://www.youtube.com/watch?v=krtCO751U-Q |
+
+*Traditional wedding teasing songs (गारी/गाली गीत) sung by the bride's and
+groom's sides. Downloaded for personal/family listening.*
 
 ## Re-downloading (if ever needed)
 

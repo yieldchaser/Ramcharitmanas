@@ -4,7 +4,7 @@ Every script here uses **absolute Windows paths** (`C:\Users\Dell\...`, `D:\Musi
 top of the file and expects the WinGet ffmpeg build. If you move the project or run it on
 another machine, edit those constants first.
 
-## [pendrive/](pendrive/) — the numbering kit (now 001–402)
+## [pendrive/](pendrive/) — the numbering kit (now 001–405)
 
 The pipeline that rebuilt the C-28 pendrive. Run in this order:
 

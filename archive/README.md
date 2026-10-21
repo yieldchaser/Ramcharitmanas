@@ -10,7 +10,7 @@ not real MP3s and 99 filenames were not zero-padded, so the numbers did not matc
 the C-28 player actually played.
 
 **Do not print these or give them to the listener.** The current, verified list is
-[`Music-Tracklist-001-402.txt`](../Music-Tracklist-001-402.txt) (and `.html`) in the
+[`Music-Tracklist-001-405.txt`](../Music-Tracklist-001-405.txt) (and `.html`) in the
 repo root.
 
-Root cause and the rules the rebuilt library follows: [README.md](../README.md#pendrive-library--numbers-001-to-402-dmusic).
+Root cause and the rules the rebuilt library follows: [README.md](../README.md#pendrive-library--numbers-001-to-405-dmusic).

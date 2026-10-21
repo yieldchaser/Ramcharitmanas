@@ -27,7 +27,9 @@ ALBUM = "Bhakti Collection"      # same album tag the whole library carries
 GENRE = "Devotional"             # same genre tag the whole library carries
 
 # id, group shown in the track list, hand-written title used instead of the raw
-# YouTube one (the raw titles carry "#Video |" prefixes and hashtag spam)
+# YouTube one (the raw titles carry "#Video |" prefixes and hashtag spam).
+# Entries already present on the drive are skipped by title, so re-running this
+# file never duplicates or renumbers anything -- it is the log of the group.
 TRACKS = [
     ("-a8YCshjQXs", "Vivah Gari Geet",
      "दुलहा के बहिन यार राखेली थानेदार राखेली - विवाह गारी गीत"),
@@ -35,6 +37,12 @@ TRACKS = [
      "समधी के बहिनिया पटाके हलवाई - विवाह गारी गीत"),
     ("krtCO751U-Q", "Vivah Gari Geet",
      "कईसन बाराती अइले मांग मांग खाले - विवाह गारी गीत"),
+    ("vtmiqqRsp90", "Vivah Gari Geet",
+     "समधी के दीदी बड़की खेलाड़ - विवाह गारी गीत"),
+    ("l5bKr_5jfAY", "Vivah Gari Geet",
+     "तनी सुन ला... साले तब जइहा - विवाह गारी गीत"),
+    ("5I3sFVTplJs", "Vivah Gari Geet",
+     "बराती गाली गीत - विवाह गारी गीत"),
 ]
 
 JUNK = re.compile(r"^(untitled|track\s*\d+|audio|mp3|song|unknown|na|n/?a)$", re.I)
@@ -56,6 +64,16 @@ def next_number():
     nums = [int(m.group(1)) for f in os.listdir(DEST)
             if (m := re.match(r"^(\d+)\s*-", f))]
     return max(nums) + 1 if nums else 1
+
+
+def titles_on_drive():
+    """Clean titles already numbered on the drive, so re-runs skip them."""
+    out = set()
+    for f in os.listdir(DEST):
+        m = re.match(r"^\d+\s*-\s*(.+)\.mp3$", f, re.I)
+        if m:
+            out.add(m.group(1).strip())
+    return out
 
 
 def download(vid):
@@ -123,16 +141,22 @@ def encode(src, dst, tag, total):
 
 def main():
     dry = "--dry-run" in sys.argv
+    have = titles_on_drive()
+    pending = [t for t in TRACKS if clean_title(t[2]) not in have]
     start = next_number()
-    total = start + len(TRACKS) - 1
-    print(f"drive holds {start - 1} tracks -> new numbers {start:03d}-{total:03d}", flush=True)
+    total = start + len(pending) - 1
+    print(f"drive holds {start - 1} tracks, {len(pending)} of {len(TRACKS)} entries pending", flush=True)
+    if not pending:
+        print("nothing to add -- every TRACKS entry is already on the drive")
+        return
+    print(f"new numbers {start:03d}-{total:03d}", flush=True)
     if dry:
-        for i, (vid, group, given) in enumerate(TRACKS):
+        for i, (vid, group, given) in enumerate(pending):
             print(f"  {start + i:03d}  {vid}  [{group}]  {given}", flush=True)
         return
 
     written = []
-    for i, (vid, group, given) in enumerate(TRACKS):
+    for i, (vid, group, given) in enumerate(pending):
         n = start + i
         print(f"[{n:03d}] downloading {vid} ...", flush=True)
         scratch, title, artist, year, url = download(vid)

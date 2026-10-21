@@ -99,7 +99,10 @@ def main():
         extra.append((n, hms(dur), row_text(title, artist)))
 
     groups = [g for g in groups if g[1] <= old_max]
-    groups.append([old_max + 1, new_max, group])
+    if groups and groups[-1][1] == old_max and groups[-1][2] == group:
+        groups[-1][1] = new_max          # same group continues: one range, not two
+    else:
+        groups.append([old_max + 1, new_max, group])
 
     title_line = f"PENDRIVE TRACK LIST  -  {new_max} TRACKS  -  NUMBERS 001 TO {new_max}"
     header = [
